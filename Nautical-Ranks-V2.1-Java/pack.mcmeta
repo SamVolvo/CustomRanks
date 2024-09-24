@@ -2,18 +2,10 @@
     "pack": {
         "description": [
             {
-                "text": "Made",
+                "text": "Made by SamVolvo.",
                 "color": "#84ed37"
-            },
-			{
-                "text": " By ",
-                "color": "#84ed37"
-            },
-            {
-                "text": "Nautical Services",
-                "color": "yellow"
             }
         ],
-        "pack_format": 45
+        "pack_format": 48
     }
 }
